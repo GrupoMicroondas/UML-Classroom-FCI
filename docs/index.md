@@ -12,6 +12,7 @@ Sistema Falcão Sombrio para Drones
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades)
+- [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 
 
 # Autores
@@ -40,3 +41,5 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 - Autenticação de operadores via biometria e autenticaçao multifator
 
 # Diagrama de Atividades
+
+# Diagrama de Casos de Uso
