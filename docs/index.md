@@ -27,6 +27,17 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 ## Requisitos Funcionais
+
+| ID | Nome | Descrição |
+| -- | ---- | --------- |
+|    |      |           |
+|    |      |           |
+|    |      |           |
+|    |      |           |
+|    |      |           |
+|    |      |           |
+
+
 - Controle remoto e autônomo dos drones
 - Sensoriamento do ambiente via LIDAR, câmeras e GPS
 - Detecçao e evasão de ameaças em tempo real
