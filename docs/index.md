@@ -51,6 +51,16 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 - Criptografia de ponta e assinaturas digitais
 - Autenticação de operadores via biometria e autenticaçao multifator
 
+  | ID | Nome | Descrição |
+| RNF01 | Segurança | O sistema deve ter protocolos e criptografia para manter a comunicação segura com os drones |
+| RNF02 | Banco de Dados | O sistema deve utilizar NoSQL distruibuido |
+| RNF03 |      |           |
+|    |      |           |
+|    |      |           |
+|    |      |           |
+|    |      |           |
+
+
 # Diagrama de Atividades
 
 # Diagrama de Casos de Uso
