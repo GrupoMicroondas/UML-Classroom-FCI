@@ -18,7 +18,7 @@ Sistema Falcão Sombrio para Drones
 # Autores
 
 * Henrique Brainer Costa
-* Henrique Lemos Parrera Catanha
+* Henrique Lemos Parrera Silva Catanha
 * João Pedro Queiroz de Andrade
 * João Victor Vidal Barbosa 
 
