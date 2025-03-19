@@ -40,29 +40,17 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 | RF07 | Autenticação | O sistema deve conter um processo de autenticação biometria e em dois fatores para os operadores |
 | RF08 | Segurança de Comunicação | A comunicação do sistema com os drones deve ser realizada com criptografia para garantir a integridade das partes |
 
-
-- Controle remoto e autônomo dos drones
-- Sensoriamento do ambiente via LIDAR, câmeras e GPS
-- Detecçao e evasão de ameaças em tempo real
-- Mecanismos de fallback para evitar perda de conexão
-- Logs de missões realizadas e eventos críticos
-- Banco de dados NoSQL distribuído para dados em tempo real 
 ## Requisitos Não-Funcionais
-- Interface para gerenciamento de frotas de drones
-- Dashboard em tempo real com telemetria
-- Protocolos para comunicação segura e em tempo real com os drones
-- Criptografia de ponta e assinaturas digitais
-- Autenticação de operadores via biometria e autenticaçao multifator
 
 | ID | Nome | Descrição |
 | -- | ---- | --------- |
-| RNF01 | Segurança | O sistema deve ter protocolos e criptografia para manter a comunicação segura com os drones |
-| RNF02 | Banco de Dados | O sistema deve utilizar NoSQL distruibuido |
-| RNF03 |      |           |
-|    |      |           |
-|    |      |           |
-|    |      |           |
-|    |      |           |
+| RNF01 | Segurança | O sistema deve ter protocolos e criptografia para manter a comunicação segura entre o drone e o operador |
+| RNF02 | Banco de Dados | O Banco de Dados deve utilizar NoSQL distruibuido |
+| RNF03 | Logs e auditoria | O sistema deve possuir logs de registros de atualizações e modifcações do sistema feita pelos operadores |
+| RNF04 | Interface | O sistema deve conter uma interface intuitiva |
+| RNF05 | Autenticação | O sistema deve garantir a confiabilidade dos operadores |
+| RNF06 | Eficiência | O sistema deve utilizar algoritmos otizimados para melhor desempenho e velocidade|
+| RNF07 | Falhas | O sistema deve registrar falhas de operações |
 
 
 # Diagrama de Atividades
