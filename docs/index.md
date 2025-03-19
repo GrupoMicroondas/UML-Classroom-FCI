@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Sistema Falcão Sombrio para Drones&gt;*
+Sistema Falcão Sombrio para Drones
 </center></font>
 
 **Conteúdo**
