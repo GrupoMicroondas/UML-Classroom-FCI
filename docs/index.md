@@ -30,12 +30,12 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 
 | ID | Nome | Descrição |
 | -- | ---- | --------- |
-|    |      |           |
-|    |      |           |
-|    |      |           |
-|    |      |           |
-|    |      |           |
-|    |      |           |
+| RF01 | Controle | O controle dos drones devem ser realizados de forma remota e/ou autônomas | 
+| RF02 | Sensores | Os sistema deve receber e interpretar o sensoriamento do ambiente que os drones se encontram via LIDAR, câmeras e GPS |
+| RF03 | Robustez | O sistema deve ser capaz de interpretar e detectar ameaças em tempo real e reagir de forma coerente ao contexto |
+| RF04 | 
+| RF05 |
+| RF06 |
 
 
 - Controle remoto e autônomo dos drones
