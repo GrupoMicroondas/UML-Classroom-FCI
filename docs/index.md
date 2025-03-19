@@ -11,6 +11,7 @@ Sistema Falcão Sombrio para Drones
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Diagrama de Atividades](#diagrana-de-atividades)
 
 
 # Autores
@@ -37,3 +38,5 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 - Protocolos para comunicação segura e em tempo real com os drones
 - Criptografia de ponta e assinaturas digitais
 - Autenticação de operadores via biometria e autenticaçao multifator
+
+# Diagrama de Atividades
