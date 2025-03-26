@@ -54,5 +54,5 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 
 
 # Diagrama de Atividades
-
+![Diagrama de Atividades](docs/imgs/printDiaddeAtivs.png)
 # Diagrama de Casos de Uso
