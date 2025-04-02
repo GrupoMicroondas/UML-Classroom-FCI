@@ -59,13 +59,16 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c43d92f4d20108d25106dd3f39c680acd3139215/docs/imgs/diagCasosUso.png)
 # Diagrama de Requisitos de Casos de Uso
 
-| Sistema Falcão Sombrio para Drones | |
-| -- | ---- |
-| RF01 | Controle | 
-| RF02 | Sensores | 
-| RF03 | Robustez | 
-| RF04 | Conexão |
-| RF05 | Registro de Missões |
-| RF06 | Interface de Controle |
-| RF07 | Autenticação | 
-| RF08 | Segurança de Comunicação |
+| Sistema Falcão Sombrio para Drones ||
+|---|---|
+| Função | Controle | 
+| Descrição | Sensores | 
+| Entradas | Robustez | 
+| Fonte | Conexão |
+| Saídas | Registro de Missões |
+| Destino | Interface de Controle |
+| Ação | Autenticação | 
+| Requer | Segurança de Comunicação |
+| Pré-condição | Segurança de Comunicação |
+| Pós-condição | Segurança de Comunicação |
+| Efeitos Colaterais | Segurança de Comunicação |
