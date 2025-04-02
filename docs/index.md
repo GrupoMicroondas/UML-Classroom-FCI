@@ -61,14 +61,17 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 
 | Sistema Falcão Sombrio para Drones ||
 |---|---|
-| Função | Controle | 
-| Descrição | Sensores | 
-| Entradas | Robustez | 
-| Fonte | Conexão |
-| Saídas | Registro de Missões |
-| Destino | Interface de Controle |
-| Ação | Autenticação | 
-| Requer | Segurança de Comunicação |
-| Pré-condição | Segurança de Comunicação |
-| Pós-condição | Segurança de Comunicação |
-| Efeitos Colaterais | Segurança de Comunicação |
+| Nome do Caso de Uso |  | 
+| Ator Principal |  | 
+| Atores Secundários |  | 
+| Resumo |  |
+| Pré-condições |  |
+| Pós-condições |  |
+
+| Fluxo Principal | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  |  |
+|  |  |
+|  |  |
+|  |  |
