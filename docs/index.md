@@ -57,3 +57,15 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c148f668b9a9ab5a8e80600c9483384272674f9c/docs/imgs/printDiaddeAtivs.png)
 # Diagrama de Casos de Uso
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/2fd46ea979d3845b388bab60eadbe8c4644e5950/docs/imgs/diagCasosUso.png)
+# Diagrama de Requisitos de Casos de Uso
+
+| Sistema Falcão Sombrio para Drones |
+| -- | ---- |
+| RF01 | Controle | O controle dos drones devem ser realizados de forma remota e/ou autônomas | 
+| RF02 | Sensores | Os sistema deve receber e interpretar o sensoriamento do ambiente que os drones se encontram via LIDAR, câmeras e GPS |
+| RF03 | Robustez | O sistema deve ser capaz de interpretar e detectar ameaças em tempo real e reagir de forma coerente ao contexto |
+| RF04 | Conexão | O sistema deve conter mecanismos de fallback para evitar a perda de conexão |
+| RF05 | Registro de Missões | O sistema deve armazenar eventos ocorridos com os drones nas missões performadas |
+| RF06 | Interface de Controle | Os dados de telemetria, status e comandos a serem realizados pelos drones devem ser apresentados por meio de uma interface gráfica para os operadores |
+| RF07 | Autenticação | O sistema deve conter um processo de autenticação biometria e em dois fatores para os operadores |
+| RF08 | Segurança de Comunicação | A comunicação do sistema com os drones deve ser realizada com criptografia para garantir a integridade das partes |
