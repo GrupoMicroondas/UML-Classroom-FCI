@@ -56,3 +56,4 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 # Diagrama de Atividades
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c148f668b9a9ab5a8e80600c9483384272674f9c/docs/imgs/printDiaddeAtivs.png)
 # Diagrama de Casos de Uso
+![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/2fd46ea979d3845b388bab60eadbe8c4644e5950/docs/imgs/diagCasosUso.png)
