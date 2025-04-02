@@ -56,7 +56,7 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 # Diagrama de Atividades
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c148f668b9a9ab5a8e80600c9483384272674f9c/docs/imgs/printDiaddeAtivs.png)
 # Diagrama de Casos de Uso
-![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/2fd46ea979d3845b388bab60eadbe8c4644e5950/docs/imgs/diagCasosUso.png)
+![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c43d92f4d20108d25106dd3f39c680acd3139215/docs/imgs/diagCasosUso.png)
 # Diagrama de Requisitos de Casos de Uso
 
 | Sistema Falcão Sombrio para Drones | |
