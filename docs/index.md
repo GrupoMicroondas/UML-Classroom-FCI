@@ -10,7 +10,7 @@ Sistema Falcão Sombrio para Drones
 
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#descrição-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#analise-de-requisitos-funcionais-e-naop--funcionais)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#analise-de-requisitos-funcionais-e-nao--funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 
