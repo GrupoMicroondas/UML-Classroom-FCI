@@ -10,7 +10,7 @@ Sistema Falcão Sombrio para Drones
 
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#descrição-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#análise-de-requisitos)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 
@@ -26,7 +26,7 @@ Sistema Falcão Sombrio para Drones
 
 A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento de drones bélicos equipados com inteligência artificial e tecnologias avançadas para combate, tem como principal produto uma frota de drones de nome Aquila-X e está desenvolvendo um sistema de operação remota e autônoma para esses drones chamado de Falcão Sombrio. No entanto, foram observadas falhas na arquitetura desse sistema e por isso contratou nosso serviço de consultoria da Cyber Bullet System para desenvolver um banco de dados eficiente e reformular a arquitetura do sisetma para operações críticas dos drones.
 
-# Análise de Requisitos Funcionais e Não Funcionais
+# Análise de Requisitos Funcionais e Não-Funcionais
 ## Requisitos Funcionais
 
 | ID | Nome | Descrição |
