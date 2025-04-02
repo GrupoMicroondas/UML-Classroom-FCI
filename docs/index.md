@@ -61,17 +61,32 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 
 | Sistema Falcão Sombrio para Drones ||
 |---|---|
-| Nome do Caso de Uso |  | 
-| Ator Principal |  | 
-| Atores Secundários |  | 
-| Resumo |  |
-| Pré-condições |  |
-| Pós-condições |  |
+| Nome do Caso de Uso | Registrar Missão | 
+| Ator Principal | Operador | 
+| Atores Secundários | Militar e IA | 
+| Resumo | Após o término de uma missão a IA ou o Militar responsável deve preencher um formulário contendo todos os detalhes da missão, como ações tomadas, ordens recebidas, feedback dos sensores etc. |
+| Pré-condições | Uma missão ter sido efetuad |
+| Pós-condições | Dados serão enviados ao banco de dados |
 
 | Fluxo Principal | |
 |--|--|
 | Ações do Ator | Ações do Sistema | 
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1. Operador insere um resumo breve da missão de até uma linha |  |
+|  | 2. Sistema requisita as ordens iniciais |
+| 3. Operador insere as ordens que foram dadas |  |
+|  | 4. Sistema requisita local da missão |
+| 5. Operador insere as coordenadas precisas do local da missão | |
+| | 6. Sistema requisita as ações a serem tomadas |
+| 7. Operador insere as ações requisitadas | |
+| | 8. Sistema pede confirmação das informções |
+| 9. Operador confirma as informações | |
+| | 10. Sistema devolve um feedback visual para o operador |
+
+| Fluxo Alternativo | |
+|-|-|
+| 1. Operador seleciona opção de editar um formulário  | |
+| | 2. Requisita chave de acesso, para verificar autoridade do usuário |
+| 3. Usuário altera as informações do formulário | |
+| | 4. Sistema pede confirmação de envio|
+| 5. Usuário confirma alterações | |
+| | 6. Sistema devolve um feedback visual para o operador |
