@@ -59,9 +59,8 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c43d92f4d20108d25106dd3f39c680acd3139215/docs/imgs/diagCasosUso.png)
 # Diagrama de Requisitos de Casos de Uso
 
-| Sistema Falcão Sombrio para Drones ||
+| Nome do Caso de Uso | Registrar Missão |
 |---|---|
-| Nome do Caso de Uso | Registrar Missão | 
 | Ator Principal | Operador | 
 | Atores Secundários | Militar e IA | 
 | Resumo | Após o término de uma missão a IA ou o Militar responsável deve preencher um formulário contendo todos os detalhes da missão, como ações tomadas, ordens recebidas, feedback dos sensores etc. |
