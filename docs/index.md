@@ -13,6 +13,7 @@ Sistema Falcão Sombrio para Drones
 - [Análise de Requisitos Funcionais e Não-Fucionais](#análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
+- [Especificação dos requisitos](#especificação-dos-requisitos)
 
 
 # Autores
@@ -66,7 +67,7 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 | Ator Principal | Operador | 
 | Atores Secundários | Militar e IA | 
 | Resumo | Após o término de uma missão a IA ou o Militar responsável deve preencher um formulário contendo todos os detalhes da missão, como ações tomadas, ordens recebidas, feedback dos sensores etc. |
-| Pré-condições | Uma missão ter sido efetuad |
+| Pré-condições | Uma missão ter sido efetuada |
 | Pós-condições | Dados serão enviados ao banco de dados |
 
 | Fluxo Principal | |
