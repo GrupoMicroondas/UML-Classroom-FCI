@@ -57,7 +57,7 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c148f668b9a9ab5a8e80600c9483384272674f9c/docs/imgs/printDiaddeAtivs.png)
 # Diagrama de Casos de Uso
 ![Diagrama de Atividades](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/c43d92f4d20108d25106dd3f39c680acd3139215/docs/imgs/diagCasosUso.png)
-# Diagrama de Requisitos de Casos de Uso
+# Especificação dos requisitos
 
 ## Registrar Missão
 
@@ -91,3 +91,111 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 | | 4. Sistema pede confirmação de envio|
 | 5. Usuário confirma alterações | |
 | | 6. Sistema devolve um feedback visual para o operador |
+
+## Realizar Autenticação
+
+| Nome do Caso de Uso | Realizar Autenticação |
+|---|---|
+| Ator Principal | Militar | 
+| Atores Secundários | | 
+| Resumo | Para obter acesso ao sistema falcão sombrio o militar deve realizar uma autenticação para garantir a segurança e identificar seu nível de acesso. |
+| Pré-condições | Tentativa de acesso do militar. |
+| Pós-condições | Permissão ou não ao acesso do sistema falcão sombrio. |
+
+| Fluxo Principal | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+| 1. Operador insere seus dados |  |
+|  | 2. Sistema requisita a biometria do militar |
+| 3. Operador realiza a biometria |  |
+|  | 4. Sistema busca dados e biometria no banco de dados |
+|  | 5. Sistema confirma nível e dados do militar |
+| | 6. Sistema da acesso condizente ao nível do militar|
+| 7. Militar recebe acesso ao sistema | |
+
+| Fluxo Exceção | |
+|-|-|
+| Ações do Ator | Ações do Sistema | 
+| 1. Operador insere seus dados |  |
+|  | 2. Sistema nega acesso por dados incoerentes ao banco de dados |
+| 1. Operador insere seus dados |  |
+|  | 2. Sistema requisita a biometria do militar |
+| 3. Operador realiza a biometria |  |
+|  | 4. Sistema nega acesso por biometria incoerente ao banco de dados |
+
+## Receber Instruções 
+
+| Nome do Caso de Uso | Receber Instruções |
+|---|---|
+| Ator Principal | Operador | 
+| Atores Secundários | Militar e IA | 
+| Resumo | Drone receberá instruções de voo vindas do militar ou IA |
+| Pré-condições | Drone estar ativo em missão e receber instruções |
+| Pós-condições | Feedback dos sensores do drone para próximas ações |
+
+| Fluxo Principal | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  | 1. Sistema envia os sensores e dados de telemetria ao militar |
+| 2. Militar analisa o feedback dos sensores |  |
+| 3. Militar envia instruções ao drone |  |
+|  | 4. Sistema repassa instruções ao drone |
+
+
+| Fluxo Alternativo | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  | 1. Sistema envia os sensores e dados de telemetria para a IA |
+| 2. IA analisa o feedback dos sensores |  |
+| 3. IA envia instruções ao drone |  |
+|  | 4. Sistema repassa instruções ao drone |
+
+
+## Analisar Feedback dos Sensores 
+
+| Nome do Caso de Uso | Analisar Feedback dos Sensores |
+|---|---|
+| Ator Principal | Operador | 
+| Atores Secundários | Militar e IA | 
+| Resumo | Operador analisa o feedback dos sensores para executar próximas ações |
+| Pré-condições | Drone estar ativo em missão |
+| Pós-condições | Feedback dos sensores enviados novamente para próximas ações |
+
+| Fluxo Principal | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  | 1. Sistema envia os sensores e dados de telemetria ao militar |
+| 2. Militar analisa o feedback dos sensores |  |
+
+| Fluxo Alternativo | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  | 1. Sistema envia os sensores e dados de telemetria ao militar |
+| 2. IA analisa o feedback dos sensores |  |
+
+## Gerar Novas Instruções
+
+| Nome do Caso de Uso | Analisar Feedback dos Sensores |
+|---|---|
+| Ator Principal | Operador | 
+| Atores Secundários | Militar e IA | 
+| Resumo | Operador analisa o feedback dos sensores para executar próximas ações |
+| Pré-condições | Drone estar ativo em missão |
+| Pós-condições | Feedback dos sensores enviados novamente para próximas instruções |
+
+| Fluxo Principal | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  | 1. Sistema envia os sensores e dados de telemetria ao militar |
+| 2. Militar analisa o feedback dos sensores |  |
+| 3. Militar envia instruções ao drone |  |
+|  | 4. Sistema repassa instruções ao drone |
+
+| Fluxo Alternativo | |
+|--|--|
+| Ações do Ator | Ações do Sistema | 
+|  | 1. Sistema envia os sensores e dados de telemetria ao militar |
+| 2. IA analisa o feedback dos sensores |  |
+| 3. Militar envia instruções ao drone |  |
+|  | 4. Sistema repassa instruções ao drone |
+
