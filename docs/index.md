@@ -200,3 +200,8 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 | 3. Militar envia instruções ao drone |  |
 |  | 4. Sistema repassa instruções ao drone |
 
+# Diagrama de Sequência
+![Diagrama de Sequeência](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/196620efba8e09419d344bb52ea2988c46b33b27/docs/imgs/imgDiagSeq.png)
+
+
+
