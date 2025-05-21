@@ -203,7 +203,7 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 # Diagrama de Sequência
 ![Diagrama de Sequeência](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/196620efba8e09419d344bb52ea2988c46b33b27/docs/imgs/imgDiagSeq.png)
 
-# Diagrama de Sequência
+# Diagrama de Classes
 ![Diagrama de Sequeência](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/9ef343e572b5e840c1ee2e02e84aa14c77e204e7/docs/imgs/diagramaDeClasses.png)
 
 
