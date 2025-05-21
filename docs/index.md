@@ -213,4 +213,6 @@ A Securus Dynamic, empresa reconhecida internacionalmente pelo desenvolvimento d
 ## Frota de Drones
 ![Diagrama de Sequeência](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/9e66083ea8ceaa7ef79e229cdce1ad7d00de9ea6/docs/imgs/diagEstadosFrota.png)
 
+## Operador do Drone
+![Diagrama de Sequeência](https://github.com/GrupoMicroondas/UML-Classroom-FCI/blob/a098c3ba25fe89ffb412e5e209a6396e20185660/docs/imgs/diagEstadosOperador.png)
 
